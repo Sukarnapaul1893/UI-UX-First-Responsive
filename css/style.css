@@ -26,6 +26,8 @@
 
 .header .nav-bar{
     display: flex;
+    
+
 }
 
 .header .nav-bar a{
@@ -44,16 +46,21 @@
 /* apply different colors on each menu item */
 .header .nav-bar a:nth-child(1){
     background-color: #db1616;
+    border-radius: 25px;
 }
 .header .nav-bar a:nth-child(2){
     background-color: #6b9c1c;
+    border-radius: 25px;
 }
 .header .nav-bar a:nth-child(3){
     background-color: #2697e2;
+    border-radius: 25px;
 }
 .header .nav-bar a:nth-child(4){
     background-color: #230a80;
+    border-radius: 25px;
 }
 .header .nav-bar a:nth-child(5){
     background-color: #970a90;
+    border-radius: 25px;
 }
